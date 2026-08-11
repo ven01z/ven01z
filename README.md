@@ -1,18 +1,20 @@
-<h1 align="center">Hi 👋, I'm ven</h1>
-<h3 align="center">I'm an aspiring Smart Contract Security Researcher</h3>
+<h1 align="center">Hi 👋, I'm Imran</h1>
+<h3 align="center">I'm an aspiring Smart Contract Security Researcher from the Netherlands.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ven01z&label=Profile%20views&color=47602b&style=flat" alt="ven01z" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ven01z" alt="ven01z" /></a> </p>
+
 
 <h3 align="left">About me:</h3>
 
+- 🔭 Actively working on Solidity and Foundry projects
+- 🌱 Currently learning smart contract development and security
+- 🛡️ Familiar with Web2 security concepts and bug bounty methodologies
+- 🛠️ I like to build, break, and fix things with a strong emphasis on breaking them to understand how they fail
+- 🧪 Exploring smart contract audits, vulnerabilities, and security fixes
+- 📫 Reach me at [ven01z.contact@gmail.com](mailto:ven01z.contact@gmail.com)
 
-- 🔭 Actively working on **Solidity and Foundry projects**
-
-- 🌱 Actively learning **Smart Contract Development and Security**
-
-- 📫 How to reach me **ven01z.contact@gmail.com**
 <img data-importer="image" align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVhOWxhcHZmYnU1ZG42OHp5anZwODU3NWdwcnRzdzdwa3YzZXA4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tJvE65HnjZk55GbhXU/giphy.gif"  />
 
 
