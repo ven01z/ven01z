@@ -6,7 +6,7 @@
 
 
 
-<h3 align="left">About me:</h3>
+<h1 align="left">💫About me:</h1>
 
 - 🔭 Actively working on Solidity and Foundry projects
 - 📚 Currently studying blockchain development and smart contract security
