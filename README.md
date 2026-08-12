@@ -22,5 +22,5 @@
 
 <h3 align="left">Tools & Technologies:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=solidity,bash,linux,vim,notion,vscode,git,github,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=solidity,bash,linux,vim,vscode,git,github)](https://skillicons.dev)
 
